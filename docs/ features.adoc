@@ -6,7 +6,7 @@ Neue Beschreibung
 
 == Feature 1
 
-neue feature
+neue feature. jetzt noch weiterer text dazu.
 
 == Feature 2
 
