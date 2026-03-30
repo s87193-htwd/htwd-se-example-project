@@ -6,7 +6,7 @@ Neue Beschreibung
 
 == Feature 1
 
-<insert_feature_here>
+neue feature
 
 == Feature 2
 
