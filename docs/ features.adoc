@@ -11,3 +11,7 @@ neue feature. jetzt noch weiterer text dazu.
 == Feature 2
 
 feature-x branch commit testen
+
+== Feature X
+
+zweites commit
